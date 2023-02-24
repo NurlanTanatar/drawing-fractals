@@ -1,2 +1,2 @@
 # drawing-fractals
-Implementing fractals by using raylib binding to Go
+Implementing fractals by using raylib binded to Go
